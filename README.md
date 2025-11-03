@@ -4,22 +4,22 @@ Program ini berfungsi untuk menjumlahkan dua buah matriks yang dimasukkan oleh p
 
 Cara Kerja Program:
 
-**Meminta ukuran matriks**
+**Meminta ukuran matriks**: 
 Program terlebih dahulu meminta pengguna memasukkan jumlah baris dan kolom matriks. Ukuran ini akan digunakan untuk membuat dua matriks dengan ukuran yang sama.
 
-**Mengisi elemen matriks pertama**
+**Mengisi elemen matriks pertama**: 
 Pengguna diminta untuk memasukkan setiap elemen matriks pertama satu per satu, berdasarkan posisi baris dan kolomnya.
 
-**Mengisi elemen matriks kedua**
+**Mengisi elemen matriks kedua**: 
 Setelah itu, pengguna juga diminta untuk memasukkan elemen-elemen matriks kedua dengan cara yang sama.
 
-**Menjumlahkan kedua matriks**
+**Menjumlahkan kedua matriks**: 
 Program melakukan perulangan ganda untuk menelusuri setiap posisi elemen pada kedua matriks, kemudian menjumlahkan nilai yang berada pada posisi yang sama dan menyimpannya ke dalam matriks hasil.
 
-**Menampilkan hasil penjumlahan**
+**Menampilkan hasil penjumlahan**: 
 Setelah semua elemen dijumlahkan, program mencetak hasil penjumlahan dalam bentuk matriks ke layar.
 
-**Menutup input**
+**Menutup input**: 
 Program menutup objek Scanner sebagai tanda bahwa input dari pengguna sudah selesai digunakan
 
 Berikut tampilan hasilnya:
