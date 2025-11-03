@@ -34,6 +34,7 @@ public class LatihanUKL6 {
             hasilPenjumlahan[i][j] = matriks1[i][j] + matriks2[i][j];
         }
     }
+    System.out.println();
     System.out.println("Hasil penjumlahan matriks:");
     for (int i = 0; i < baris; i++) {
         for (int j = 0; j < kolom; j++) {
@@ -43,4 +44,5 @@ public class LatihanUKL6 {
     }
         input.close();
     }
+
 }
